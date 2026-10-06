@@ -26,9 +26,14 @@
   <tr>
     <td align="center" style="background-color: #F8F9FA; padding: 24px; border-radius: 20px; border: 1px solid #E2E8F0;">
       <p><b> Interactive Walkthrough</b></p>
-      <img src="assets/preview.gif" alt="Philippine Cinema Portal App Preview" width="300" style="border-radius: 22px; box-shadow: 0 12px 28px rgba(30, 41, 59, 0.15);" />
+      <a href="preview.mp4">
+        <img src="assets/preview.gif" alt="Philippine Cinema Portal App Preview" width="300" style="border-radius: 22px; box-shadow: 0 12px 28px rgba(30, 41, 59, 0.15);" />
+      </a>
       <br/><br/>
-      <sub>✨ Smooth tab transitions • Floating bottom bar • Quick search & bio views</sub>
+      <p>
+        <a href="preview.mp4"><b> View Direct Video (preview.mp4)</b></a>
+      </p>
+      <sub> Smooth tab transitions • Floating bottom bar • Quick search & bio views</sub>
     </td>
   </tr>
 </table>
